@@ -1,5 +1,5 @@
 # DIP LAB CODES
-MATLAB Codes for 
+MATLAB and python Codes for 
  1. Histogram Equalization
  2. Display of Red, Blue & Green Components of RGB Image
  3. Compression by Bit Slicing
